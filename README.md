@@ -37,4 +37,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## :memo: Certificado
 
-<img align="center" alt=certificado src="">
+ ![certificado](certificado.png)
