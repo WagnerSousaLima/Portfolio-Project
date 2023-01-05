@@ -1,14 +1,22 @@
 {
-  "name": "Renan J Paula",
+  "name": "Wagner Sousa Lima",
   "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "job": "Estudante Univesitário - Desenvolvedor",
+  "location": "Taubaté - SP",
+  "phone": "(12) 99177-7770",
+  "email": "wagner.sousalima@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Node",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
@@ -16,63 +24,60 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "C#",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Resiliência",
+      "Facilidade de comunicação",
       "Trabalho em equipe",
-      "Flexibilidade",
       "Organização"
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Com mais de 8 anos de experiência na área comercial decidi me desafiar e migrar para área de tecnologia e dela fazer minha profissão. Sou apaixonado pela tecnologia e a mudança que ela pode trazer na vida das pessoas tenho gana em aprender, conhecer novas linguagens, frameworks e a cada dia me tornar o melhor desenvolvedor que posso ser."
+    
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "My GitHub Profile",
+      "url": "https://github.com/WagnerSousaLima",
+      "github": true
+    },
+    
+    {
+      "name": "Criando uma Pagina fictícia de um E-Commerce",
+      "url": "https://github.com/WagnerSousaLima/Ecommerce-NextLevel-Maeztra",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Pokedex (listagem de pokemons) usando PokeApi e JavaScript",
+      "url": "https://github.com/WagnerSousaLima/Pokedex-FormacaoDeveloperJS-DIO",
+      "github": true
+    },
+    {
+      "name": "Calendário De Jogos da Copa",
+      "url": "https://github.com/WagnerSousaLima/CalendarioDeJogosdaCopa-Rocketseat-NLW",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Consultor de vendas / Samsung",
+      "period": "Mar 2020 - Ago 2022",
+      "description": "Vendedor de tecnologia, trabalhando na loja oficial da Samsung , prestando consultoria ao cliente, auxílio no uso de tecnologias da marca e vendas de produtos financeiros afiliados da rede."
     },
     {
-      "name": "Software Engineering Lead / DIO",
+      "name": "Promotor de vendas especializado / Santander BrasiL",
       "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "description": "Segunda ação que fui contratado junto ao Banco Santander de Promotor FOPA (ação de folha de pagamento) a primeira foi realizada nos meses de Outubro a Novembro de 2017. Realizando organização de kit de abertura de conta; Abertura de conta corrente /conta salário; Apresentação de produtos bancários e orientações sobre tarifas e seguros em empresas de grande porte que fizeram a migração de outros bancos para o Santander."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Consultor de vendas / Nextel Telecomunicações",
+      "period": "Abr 2015 - Jan 2017",
+      "description": "Vendedor de telecom em franquia da marca, vendas diretas, negociação, orçamentos, organização e exposição de vitrine e estoque, orientação a resolução de problemas com o serviço da empresa"
     }
   ]
 }
