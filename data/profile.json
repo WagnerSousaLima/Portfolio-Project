@@ -12,20 +12,20 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Node",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
-      {
         "name": "Java",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
         "name": "C#",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
+      },
+      {
+        "name": "Node",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "C++",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/cplusplus.png"
       }
     ],
     "softSkills": [
@@ -46,10 +46,9 @@
       "url": "https://github.com/WagnerSousaLima",
       "github": true
     },
-    
     {
-      "name": "Criando uma Pagina fictícia de um E-Commerce",
-      "url": "https://github.com/WagnerSousaLima/Ecommerce-NextLevel-Maeztra",
+      "name": "Fun Color Challenge",
+      "url": "https://github.com/WagnerSousaLima/FunColorChallenge-PI-GrupoExtra01",
       "github": true
     },
     {
@@ -58,10 +57,11 @@
       "github": true
     },
     {
-      "name": "Calendário De Jogos da Copa",
-      "url": "https://github.com/WagnerSousaLima/CalendarioDeJogosdaCopa-Rocketseat-NLW",
+      "name": "Criando uma Pagina fictícia de um E-Commerce",
+      "url": "https://github.com/WagnerSousaLima/Ecommerce-NextLevel-Maeztra",
       "github": true
-    }
+   },
+   
   ],
   "professionalExperience": [
     {
