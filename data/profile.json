@@ -8,25 +8,29 @@
   "skills": {
     "hardSkills": [
       {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+       {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/miguelItalo/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
         "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/miguelItalo/js-developer-portfolio/main/data/imgs/ts.png"
       },
       {
-        "name": "C#",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
         "name": "Node",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
-      {
-        "name": "TypeScript",
-        "logo": "https://raw.githubusercontent.com/miguelItalo/js-developer-portfolio/main/data/imgs/ts.png"
-      }
+      } 
     ],
     "softSkills": [
       "Empatia",
@@ -37,11 +41,11 @@
     ]
   },
   "languages": [
-    "Sou uma pessoa apaixonada pela tecnologia e pelo impacto que ela pode gerar na vida das pessoas. Estou sempre buscando aprender, me desenvolver e conhecer novas linguagens e frameworks. Gosto de compartilhar meu conhecimento e minha paixão pelo universo da tecnologia. \n ",
+    "Sou uma pessoa apaixonada pela tecnologia e pelo impacto que ela pode gerar na vida das pessoas. Estou sempre buscando aprender, me desenvolver e conhecer novas linguagens e frameworks. \n ",
     " ",
-    "Estou cursando Análise e Desenvolvimento de Sistemas no Senac -SP e tenho mais de 8 anos de experiência na área comercial, tendo trabalhado com vendas em grandes empresas como Samsung, Banco Santander e Claro. Decidi me desafiar e migrar para a área de tecnologia, que é a minha verdadeira vocação.\n ",
+    "Estou cursando Análise e Desenvolvimento de Sistemas no Senac -SP e tenho mais de 8 anos de experiência na área comercial e decidi me desafiar e migrar para a área de tecnologia, que é a minha verdadeira vocação.\n ",
     " ",
-    "Atualmente, sou estagiário em desenvolvimento de software na Compass UOL, onde tenho a oportunidade de colocar em prática tudo que tenho aprendido, tenho habilidades em JavaScript , Java , C , C++, C#, React , Angular, Spring e AWS. Meu objetivo é me tornar um desenvolvedor de software de excelência e contribuir para a transformação digital da sociedade"
+    "Atualmente, sou estagiário em desenvolvimento de software na Compass UOL, onde tenho a oportunidade de colocar em prática tudo que tenho aprendido. Meu objetivo é me tornar um desenvolvedor de software de excelência e contribuir para a transformação digital da sociedade"
     
   ],
   "portfolio": [
@@ -51,21 +55,10 @@
       "github": true
     },
     {
-      "name": "Fun Color Challenge",
-      "url": "https://github.com/WagnerSousaLima/FunColorChallenge-PI-GrupoExtra01",
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/wagnersl7/",
       "github": true
-    },
-    {
-      "name": "Pokedex (listagem de pokemons) usando PokeApi e JavaScript",
-      "url": "https://github.com/WagnerSousaLima/Pokedex-FormacaoDeveloperJS-DIO",
-      "github": true
-    },
-    {
-      "name": "Criando uma Pagina fictícia de um E-Commerce",
-      "url": "https://github.com/WagnerSousaLima/Ecommerce-NextLevel-Maeztra",
-      "github": true
-   }
-   
+    }
   ],
   "professionalExperience": [
     {
