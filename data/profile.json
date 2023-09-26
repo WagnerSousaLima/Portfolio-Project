@@ -1,7 +1,7 @@
 {
   "name": "Wagner Lima",
   "photo": "https://avatars.githubusercontent.com/u/84171319?v=4",
-  "job": " Software Development Intern at Compass UOL ",
+  "job": " Front-end Developer ",
   "location": "Taubaté - SP",
   "phone": "(12) 99177-7770",
   "email": "wagner.sousalima@gmail.com",
@@ -41,11 +41,11 @@
     ]
   },
   "languages": [
-    "Sou uma pessoa apaixonada pela tecnologia e pelo impacto que ela pode gerar na vida das pessoas. Estou sempre buscando aprender, me desenvolver e conhecer novas linguagens e frameworks. \n ",
+    "Sou uma pessoa apaixonada pela tecnologia e pelo impacto que ela pode gerar na vida das pessoas. Estou sempre buscando aprender, me desenvolver e conhecer novas tecnologias, linguagens e frameworks. \n ",
     " ",
-    "Estou cursando Análise e Desenvolvimento de Sistemas no Senac -SP e tenho mais de 8 anos de experiência na área comercial e decidi me desafiar e migrar para a área de tecnologia, que é a minha verdadeira vocação.\n ",
+    "Sou formado em Análise e Desenvolvimento de Sistemas no Senac -SP, tenho experiência como desenvolvedor front-end atuando recentemente como estagiário na Compass UOL e antes de me tornar um desenvolvedor trabalhei por mais de 8 anos na área comercial, tendo trabalhado com vendas em grandes empresas como Samsung, Banco Santander e Claro.\n ",
     " ",
-    "Atualmente, sou estagiário em desenvolvimento de software na Compass UOL, onde tenho a oportunidade de colocar em prática tudo que tenho aprendido. Meu objetivo é me tornar um desenvolvedor de software de excelência e contribuir para a transformação digital da sociedade"
+    "Meu objetivo é me tornar um desenvolvedor de software de excelência e contribuir para a transformação digital da sociedade"
     
   ],
   "portfolio": [
@@ -62,7 +62,7 @@
   "professionalExperience": [
     {
       "name": "Software Development Intern",
-      "period": "Abr 2023 - atualmente ",
+      "period": "Abr 2023 - Set 2023 ",
       "description": "Front-end Development (React) - AWS Cloud"
     },
     {
