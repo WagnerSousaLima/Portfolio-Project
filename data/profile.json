@@ -1,7 +1,7 @@
 {
   "name": "Wagner Lima",
   "photo": "https://avatars.githubusercontent.com/u/84171319?v=4",
-  "job": " Front-end Developer ",
+  "job": " FullStack Developer ",
   "location": "Taubaté - SP",
   "phone": "(12) 99177-7770",
   "email": "wagner.sousalima@gmail.com",
@@ -61,9 +61,9 @@
   ],
   "professionalExperience": [
     {
-      "name": "Software Development Intern",
-      "period": "Abr 2023 - Set 2023 ",
-      "description": "Front-end Development (React) - AWS Cloud"
+      "name": "Software Development",
+      "period": "Jul 2024 - At moment ",
+      "description": "FullStack Development (Java | Spring Boot | TypeScript | react) "
     },
     {
       "name": "Consultor de vendas / Samsung",
